@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: The scroll is not working properly [BUG]
+title: " BUG Enter some details here"
 labels: ''
 assignees: ''
 
